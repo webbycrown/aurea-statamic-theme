@@ -4,9 +4,6 @@ Aurea is a class studio starter kit for yoga-adjacent studios, coaches, and memb
 
 The kit ships four home variants, class listings, booking, events, retreats, shop pages, blog and podcast layouts, and membership content so a studio can publish its timetable and take class inquiries from one site.
 
-**Live demo:** https://aurea-statamic.webbydemo.in/  
-Control Panel: `/cp` — `admin@example.com` / `password`
-
 ## Pages of Aurea
 
 The Aurea starter kit includes a comprehensive set of pages for a class studio:
