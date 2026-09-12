@@ -1,0 +1,13 @@
+{
+  "name": "webbycrown/aurea-statamic-theme",
+  "type": "statamic-starter-kit",
+  "description": "A Statamic starter kit for class studios, featuring a live weekly schedule, named coaches, memberships, and booking.",
+  "require": {
+    "statamic/cms": "*"
+  },
+  "extra": {
+    "statamic": {
+      "starter-kit": true
+    }
+  }
+}
